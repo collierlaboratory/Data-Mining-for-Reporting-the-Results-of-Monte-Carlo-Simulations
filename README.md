@@ -1,5 +1,5 @@
 # Data-Mining-for-Reporting-the-Results-of-Monte-Carlo-Simulations
-Code from "Data Mining for Reporting the Results of Monte Carlo Simulations" in the Structural Equation Modeling Journal.
+Code from "Data Mining for Reporting the Results of Monte Carlo Simulations"
 
 
 #read in tree data
